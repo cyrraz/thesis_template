@@ -6,4 +6,4 @@ all:
 	pdflatex ${base}.tex
 	pdflatex ${base}.tex
 clean:
-	rm ${base}.aux ${base}.bbl ${base}.blg ${base}.log ${base}.toc .log
+	rm ${base}.aux ${base}.bbl ${base}.blg ${base}.log ${base}.toc
